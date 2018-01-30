@@ -1,0 +1,22 @@
+{
+  "name": "echo-my-multi",
+  "version": "1.0.0",
+  "description": "homework nodejs mds3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eamarelo/echo-my-multi.git"
+  },
+  "author": "zwei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eamarelo/echo-my-multi/issues"
+  },
+  "homepage": "https://github.com/eamarelo/echo-my-multi#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  }
+}
